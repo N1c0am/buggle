@@ -1,7 +1,7 @@
 # Buggle
 
 **Descripción:**  
-Buggle es un sistema integral de gestión de logs diseñado para facilitar la trazabilidad, diagnóstico y resolución de fallos en entornos de desarrollo y producción. Su núcleo es un dashboard adaptado a diferentes roles (Desarrolladores, Administradores) que permite visualizar y gestionar errores tanto automáticos como manuales, con acceso controlado según permisos. Además, ofrece funcionalidades clave como filtrado avanzado, historial detallado, asignación y seguimiento de incidencias. El MVP se enfoca en proporcionar una plataforma colaborativa, segura y eficiente que mejora la comunicación y la respuesta ante fallos, sentando las bases para futuras mejoras basadas en IA y personalización avanzada.
+Buggle es un sistema integral de gestión de logs diseñado para facilitar la trazabilidad, diagnóstico y resolución de fallos en entornos de desarrollo y producción. Su núcleo es un dashboard adaptado a diferentes roles (Desarrolladores, Administradores) que permite visualizar y gestionar errores tanto automáticos como manuales, con acceso controlado según permisos. Además, ofrece funcionalidades clave como filtrado avanzado, historial detallado, asignación y seguimiento de incidencias. El MVP se enfoca en proporcionar una plataforma colaborativa, segura y eficiente que mejora la comunicación y la respuesta ante fallos, integración de IA para analizar logs y recomendar soluciones según el tipo de error, sentando las bases para futuras mejoras basadas en IA y personalización avanzada.
 
 ---
 
